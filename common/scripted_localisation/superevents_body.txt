@@ -1,0 +1,25 @@
+defined_text = {
+	name = GetSupereventsBody
+	
+	text = {
+		trigger = {
+			has_global_flag = SE_great_african_war
+		}
+		localization_key = SE_great_african_war_body
+	}
+	
+	text = {
+		trigger = {
+			has_global_flag = SE_ags_victory
+		}
+		localization_key = SE_ags_victory_body
+	}
+	
+	text = {
+		trigger = {
+			has_global_flag = SE_ecowas_victory
+		}
+		localization_key = SE_ecowas_victory_body
+	}
+	
+}
