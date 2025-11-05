@@ -1,4 +1,4 @@
-name="AFRICA MAP"
+name="African Dawn - Legacy"
 tags={
 	"Map"
 	"Utilities"
@@ -47,3 +47,4 @@ replace_path="common/units/codenames_operatives"
 replace_path="common/technology_sharing"
 replace_path="common/operations"
 replace_path="gfx/train_gfx_database"
+path="D:/important_files/repositories/AfricanDawn-LegacyMod"
